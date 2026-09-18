@@ -1,0 +1,6 @@
+{
+  "name": "BASOKA",
+  "description": "یاریدەدەری زیرەکی دەستکردی کەسی و یاری BASOKA CAR WORLD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
